@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/SynaxHelper/SynaxHelper/master/standart.gif" alt="Synax" />
+  <img src="https://github.com/SynaxHelper/SynaxHelper/blob/main/standard.gif" alt="Synax" />
 </h1>
 
 ## Hey! 👋

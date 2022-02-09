@@ -12,5 +12,5 @@ I'm Synax
 - 💽 MySQL, SQL, Mongo
 
 ## Contact
-- [@synaxYYY(https:/t.me/synaxYYY) on Telegram
+- [@synaxYYY(https:/t.me/synaxYYY)] on Telegram
 - [Synax#9999](./) on Discord

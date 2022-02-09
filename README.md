@@ -6,7 +6,7 @@
 I'm Synax
 
 ## Skills
-- 👨‍💻 Python, PHP
+- 👨‍💻 [Python](https://python.org), [PHP](https://www.php.net/)
 
 ## Contact
 - [@synaxYYY](https://t.me/synaxYYY) on Telegram

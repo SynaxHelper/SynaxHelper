@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/SynaxHelper/SynaxHelper/master/standart.gif" alt="Synax" />
+</h1>
 
-<!--
-**SynaxHelper/SynaxHelper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Synax
 
-Here are some ideas to get you started:
+## Skills
+- 👨‍💻 TypeScript, Python, PHP
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- [@synaxYYY(https:/t.me/synaxYYY) on Telegram
+- [Synax#9999](./) on Discord

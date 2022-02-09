@@ -6,11 +6,9 @@
 I'm Synax
 
 ## Skills
-- 👨‍💻 TypeScript, Python, PHP
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Python, PHP
 
 ## Contact
 - [@synaxYYY](https://t.me/synaxYYY) on Telegram
+- [@synaxXXX](https://t.me/synaxXXX) on Telegram
 - [Synax#9999](./) on Discord

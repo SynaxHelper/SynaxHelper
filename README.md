@@ -2,11 +2,10 @@
   <img src="https://github.com/SynaxHelper/SynaxHelper/blob/main/standard.gif" alt="Synax" />
 </h1>
 
-## Hey! 👋
-I'm Synax
+## Hey!
 
 ## Skills
-- 👨‍💻 [Python](https://python.org), [PHP](https://www.php.net/)
+- 👨‍💻 Python, PHP, JS
 
 ## Contact
 - [@synaxYYY](https://t.me/synaxYYY) on Telegram

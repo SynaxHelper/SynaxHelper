@@ -3,6 +3,7 @@
 </h1>
 
 ## Hey!
+Hey i'm synax
 
 ## Skills
 - 👨‍💻 Python, PHP, JS

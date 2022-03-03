@@ -11,4 +11,6 @@ i'm synax
 ## Contact
 - [@synaxYYY](https://t.me/synaxYYY) on Telegram
 - [@synaxXXX](https://t.me/synaxXXX) on Telegram
+- [@synaxGGG](https://t.me/synaxGGG) on Telegram
+- [@synaxsoft](https://t.me/synaxsoft) on telegram channel
 - [Synax#9999](./) on Discord
